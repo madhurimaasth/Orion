@@ -21,8 +21,8 @@ comparison
 it more accessible to non-technical users. 
 3) Allow users to create and name their own category rather than predefined ones.
 
-*This is a collaborative project for CSE 1320 (Intermediate Programming).
 
+*This is a collaborative project for CSE 1320 (Intermediate Programming).*
 ### Contributors
 1.	**Kripa Neupane**
 2.	**Madhurima Shrestha**
